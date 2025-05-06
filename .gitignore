@@ -1,2 +1,5 @@
+.vscode
 *.so
+*.dylib
 linux/bindhook
+macos/bindhook
