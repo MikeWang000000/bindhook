@@ -1,5 +1,9 @@
 .vscode
 *.so
 *.dylib
+*.obj
+*.dll
+*.exe
 linux/bindhook
 macos/bindhook
+vcpkg_installed
